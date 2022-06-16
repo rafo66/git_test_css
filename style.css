@@ -1,0 +1,28 @@
+button {
+    color: purple;
+  }
+  div {
+    color: rgb(11, 103, 131);
+  }
+  .header-text{
+    color:gray;
+  }
+  .bg{
+    background-color:goldenrod;
+  }
+  .CGV-text{
+    color: #1100ff;
+    text-align: center;
+    font-size: small;
+  }
+  .CGV-title{
+    font-weight: bold;
+    color: #1100ff;
+    text-align: center;
+  }
+  .header-logo {
+    display: inline-block;
+    padding: 200px;
+    height: auto;
+    width: 500px;
+  }
